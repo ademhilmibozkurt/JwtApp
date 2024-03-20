@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Infrastructure\\Onion.Infrastructure.Persistence\\Onion.JwtApp.Persistence.csproj": {}
+  },
+  "projects": {
+    "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Core\\Onion.JwtApp.Application\\Onion.JwtApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Core\\Onion.JwtApp.Application\\Onion.JwtApp.Application.csproj",
+        "projectName": "Onion.JwtApp.Application",
+        "projectPath": "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Core\\Onion.JwtApp.Application\\Onion.JwtApp.Application.csproj",
+        "packagesPath": "C:\\Users\\bozku\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Core\\Onion.JwtApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bozku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Core\\Onion.JwtApp.Domain\\Onion.JwtApp.Domain.csproj": {
+                "projectPath": "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Core\\Onion.JwtApp.Domain\\Onion.JwtApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Core\\Onion.JwtApp.Domain\\Onion.JwtApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Core\\Onion.JwtApp.Domain\\Onion.JwtApp.Domain.csproj",
+        "projectName": "Onion.JwtApp.Domain",
+        "projectPath": "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Core\\Onion.JwtApp.Domain\\Onion.JwtApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\bozku\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Core\\Onion.JwtApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bozku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Infrastructure\\Onion.Infrastructure.Persistence\\Onion.JwtApp.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Infrastructure\\Onion.Infrastructure.Persistence\\Onion.JwtApp.Persistence.csproj",
+        "projectName": "Onion.JwtApp.Persistence",
+        "projectPath": "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Infrastructure\\Onion.Infrastructure.Persistence\\Onion.JwtApp.Persistence.csproj",
+        "packagesPath": "C:\\Users\\bozku\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Infrastructure\\Onion.Infrastructure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bozku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Core\\Onion.JwtApp.Application\\Onion.JwtApp.Application.csproj": {
+                "projectPath": "D:\\projects\\C#\\Asp.NetCore\\JwtApp\\Onion\\Core\\Onion.JwtApp.Application\\Onion.JwtApp.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
